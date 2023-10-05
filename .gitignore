@@ -1,0 +1,7 @@
+data/
+doc/
+results/
+src/.Rprofile
+src/.Rhistory
+manuscript/
+src/.RData
